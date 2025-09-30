@@ -1,2 +1,2 @@
 # My first Repo
-im a uu student
+im a uu students
